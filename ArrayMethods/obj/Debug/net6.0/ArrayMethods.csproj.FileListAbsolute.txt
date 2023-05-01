@@ -1,0 +1,15 @@
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\bin\Debug\net6.0\ArrayMethods.exe
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\bin\Debug\net6.0\ArrayMethods.deps.json
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\bin\Debug\net6.0\ArrayMethods.runtimeconfig.json
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\bin\Debug\net6.0\ArrayMethods.dll
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\bin\Debug\net6.0\ArrayMethods.pdb
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.dll
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\refint\ArrayMethods.dll
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.pdb
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\emrah\source\repos\PatikaCSharp\ArrayMethods\obj\Debug\net6.0\ref\ArrayMethods.dll
